@@ -11,6 +11,8 @@
 
 ## Getting Started
 
+![Uploading image.png…]()
+
 First, run the development server:
 
 ```bash
